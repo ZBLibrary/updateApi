@@ -1,2 +1,12 @@
 # updateApi
-iOS APP更新接口
+iOS APP版本更新接口
+
+public enum UpdateType:String {
+    //字段
+    //可选更新
+    case OptionalType = "optional"
+    
+    //强制更新
+    case forceType = "force"
+    
+}
