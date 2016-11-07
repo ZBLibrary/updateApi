@@ -2,6 +2,6 @@
   "state": 1,
   "result": {
     "version": "1.0.0",
-    "updateType": "optional"
+    "updateType": "force"
   }
 }
