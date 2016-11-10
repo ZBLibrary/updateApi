@@ -1,8 +1,8 @@
 {
   "state": 1,
   "result": {
-    "version": "3.7.0",
-    "updateType": "necessary",
+    "version": "2.7.0",
+    "updateType": "optional",
       "updateDesc":"新版本已发布,推荐更新.如果您当前版本低于2.7.0,请卸载应用后重新下载使用"
       
   }
