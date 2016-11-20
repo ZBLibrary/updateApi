@@ -1,9 +1,9 @@
 {
   "state": 1,
   "result": {
-    "version": "2.8.5",
+    "version": "2.8.4",
     "updateType": "optional",
-      "updateDesc":"新版本已发布,推荐更新.如果您当前版本低于2.8.5,请更新"
+      "updateDesc":"新版本已发布,推荐更新.如果您当前版本低于2.8.4,请更新"
       
   }
 }
