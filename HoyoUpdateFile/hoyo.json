@@ -1,9 +1,9 @@
 {
   "state": 1,
   "result": {
-    "version": "2.7.0",
+    "version": "2.8.6",
     "updateType": "optional",
-      "updateDesc":"新版本已发布,推荐更新.如果您当前版本低于2.7.0,请卸载应用后重新下载使用"
+      "updateDesc":"新版本已发布,推荐更新.如果您当前版本低于2.8.6,请卸载应用后重新下载使用"
       
   }
 }
