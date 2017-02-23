@@ -1,7 +1,7 @@
 {
   "state": 1,
   "result": {
-    "version": "5.0.1",
+    "version": "0.0.1",
     "updateDesc":"1.你最帅\n2.你最美",
     "updateType": "force"
   }
