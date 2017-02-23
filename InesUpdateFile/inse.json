@@ -2,6 +2,7 @@
   "state": 1,
   "result": {
     "version": "1.0.0",
+    "updateDesc":"你最帅",
     "updateType": "force"
   }
 }
