@@ -1,8 +1,8 @@
 {
   "state": 1,
   "result": {
-    "version": "1.0.0",
-    "updateDesc":"1.你最帅",
+    "version": "2.0.0",
+    "updateDesc":"1.添加侧滑功能\n2.app重构升级\n3.部分功能优化\n4.本次升级需要用户重新登录",
     "updateType": "optional"
   }
 }
