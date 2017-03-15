@@ -1,7 +1,7 @@
 {
   "state": 1,
   "result": {
-    "version": "2.9.9",
+    "version": "2.0.0",
     "updateDesc":"1.添加侧滑功能\n2.app重构升级\n3.部分功能优化",
     "updateType": "optional"
   }
