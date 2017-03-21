@@ -1,9 +1,9 @@
 {
   "state": 1,
   "result": {
-    "version": "3.1.2",
+    "version": "3.1.4",
     "updateType": "optional",
-      "updateDesc":"新版本已发布,请更新"
+    "updateDesc":"新版本已发布,请更新"
       
   }
 }
