@@ -1,7 +1,7 @@
 {
   "state": 1,
   "result": {
-    "version": "3.1.8",
+    "version": "3.1.0",
     "updateDesc":"1.你最帅\n2.你最美",
     "updateType": "optional"
   }
