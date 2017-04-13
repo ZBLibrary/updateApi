@@ -3,6 +3,6 @@
   "result": {
     "version": "3.1.7",
     "updateDesc":"1.你最帅\n2.你最美",
-    "updateType": "force"
+    "updateType": "optional"
   }
 }
